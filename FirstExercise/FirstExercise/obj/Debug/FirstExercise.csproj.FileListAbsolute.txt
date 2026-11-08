@@ -1,0 +1,7 @@
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\bin\Debug\FirstExercise.exe.config
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\bin\Debug\FirstExercise.exe
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\bin\Debug\FirstExercise.pdb
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\obj\Debug\FirstExercise.csproj.AssemblyReference.cache
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\obj\Debug\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\obj\Debug\FirstExercise.exe
+C:\Users\armox\source\repos\FirstExercise\FirstExercise\obj\Debug\FirstExercise.pdb
